@@ -1,6 +1,6 @@
 import { onSnapshot, collection, addDoc, Timestamp, getDocs } from '@firebase/firestore';
 import { async } from '@firebase/util';
-import db from './fb.js';
+import {db} from './fb.js';
 
 const colRef = collection(db, 'villagers');
 
@@ -30,8 +30,11 @@ async function getVillagers(){
         let villagers = [];
         const docs = await getDocs(colRef);
         docs.forEach(doc => {
-            villagers.push(doc.data());
+            let rdoc = doc.data();
+            rdoc.id = doc.id;
+            villagers.push(rdoc);
         });
+        //villagers.push(...docs)
         resolve(villagers);
     })
 }
