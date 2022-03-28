@@ -1,0 +1,3665 @@
+[
+    {
+        "name": "Ава",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B2%D1%8B_NH.png/revision/latest?cb=20200402192349&path-prefix=ru",
+        "birthday": "1997-04-27T20:00:00.000Z",
+        "type": "Курица",
+        "personality": "Обычные",
+        "catchphrase": "клювик",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Авери",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B2%D0%B5%D1%80%D0%B8_NH.png/revision/latest?cb=20200402192328&path-prefix=ru",
+        "birthday": "1997-02-21T21:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Капризные",
+        "catchphrase": "курлы",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Аврора",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/29/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B2%D1%80%D0%BE%D1%80%D1%8B_NH.png/revision/latest?cb=20200402192829&path-prefix=ru",
+        "birthday": "1997-01-26T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Обычные",
+        "catchphrase": "к-к-крошка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Агент С",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/33/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%B0_%D0%A1_NH.png/revision/latest?cb=20200402192037&path-prefix=ru",
+        "birthday": "1997-07-01T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Бодрые",
+        "catchphrase": "коллега",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Агнес",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B3%D0%BD%D0%B5%D1%81_NH.png/revision/latest?cb=20200402192103&path-prefix=ru",
+        "birthday": "1997-04-20T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Заботливые",
+        "catchphrase": "хрю-хрю",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Адела",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B4%D0%B5%D0%BB%D1%8B_NH.png/revision/latest?cb=20200531073433&path-prefix=ru",
+        "birthday": "1997-02-04T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Бодрые",
+        "catchphrase": "бантик",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Адмирал",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%B0_NH.png/revision/latest?cb=20200402192014&path-prefix=ru",
+        "birthday": "1997-01-26T21:00:00.000Z",
+        "type": "Птица",
+        "personality": "Капризные",
+        "catchphrase": "чиф-чиф",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Азалия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B7%D0%B0%D0%BB%D0%B8%D0%B8_NH.png/revision/latest?cb=20211108044623&path-prefix=ru",
+        "birthday": "1997-12-18T00:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Высокомерные",
+        "catchphrase": "мерси",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Айк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%B9%D0%BA%D0%B0_NH.png/revision/latest?cb=20200531073713&path-prefix=ru",
+        "birthday": "1997-05-15T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Капризные",
+        "catchphrase": "гарр-сон",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Аксель",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8F_NH.png/revision/latest?cb=20200402192310&path-prefix=ru",
+        "birthday": "1997-02-22T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Спортивные",
+        "catchphrase": "потрубим",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Алиса",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/90/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BB%D0%B8%D1%81%D1%8B_NH.png/revision/latest?cb=20200402192201&path-prefix=ru",
+        "birthday": "1997-08-18T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Обычные",
+        "catchphrase": "лидер",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Альфонсо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BB%D1%8C%D1%84%D0%BE%D0%BD%D1%81%D0%BE_NH.png/revision/latest?cb=20200402192142&path-prefix=ru",
+        "birthday": "1997-06-08T20:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Ленивые",
+        "catchphrase": "это я",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Амелия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BC%D0%B5%D0%BB%D0%B8%D0%B8_NH.png/revision/latest?cb=20200402192248&path-prefix=ru",
+        "birthday": "1997-11-19T00:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Высокомерные",
+        "catchphrase": "вот",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Анабель",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/00/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C_NH.png/revision/latest?cb=20200402192409&path-prefix=ru",
+        "birthday": "1997-02-15T21:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Бодрые",
+        "catchphrase": "хрум-хрум",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Ангус",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/36/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D0%B3%D1%83%D1%81%D0%B0_NH.png/revision/latest?cb=20200402192528&path-prefix=ru",
+        "birthday": "1997-04-29T20:00:00.000Z",
+        "type": "Бык",
+        "personality": "Капризные",
+        "catchphrase": "макму-у-у",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Аникотти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D0%B8%D0%BA%D0%BE%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200402192546&path-prefix=ru",
+        "birthday": "1997-02-23T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Бодрые",
+        "catchphrase": "канноли",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Анка",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/cb/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D0%BA%D0%B8_NH.png/revision/latest?cb=20200402192507&path-prefix=ru",
+        "birthday": "1997-03-21T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Высокомерные",
+        "catchphrase": "ми-мяу",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Аннализа",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%8B_NH.png/revision/latest?cb=20200402192609&path-prefix=ru",
+        "birthday": "1997-02-05T21:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Обычные",
+        "catchphrase": "жуй-жуй",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Антонио",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/99/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_NH.png/revision/latest?cb=20200402192650&path-prefix=ru",
+        "birthday": "1997-10-20T00:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Спортивные",
+        "catchphrase": "го-го-го",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Анчоуи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BD%D1%87%D0%BE%D1%83%D0%B8_NH.png/revision/latest?cb=20200402192428&path-prefix=ru",
+        "birthday": "1997-02-03T21:00:00.000Z",
+        "type": "Птица",
+        "personality": "Ленивые",
+        "catchphrase": "чик-чирик",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Аполло",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/10/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE_NH.png/revision/latest?cb=20200402192709&path-prefix=ru",
+        "birthday": "1997-07-03T20:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Капризные",
+        "catchphrase": "пф-ф",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Астрид",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4_NH.png/revision/latest?cb=20200402192748&path-prefix=ru",
+        "birthday": "1997-03-07T21:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Высокомерные",
+        "catchphrase": "лапочка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Бабара",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ef/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%B1%D0%B0%D1%80%D1%8B_NH.png/revision/latest?cb=20200402200619&path-prefix=ru",
+        "birthday": "1997-02-27T21:00:00.000Z",
+        "type": "Овца",
+        "personality": "Высокомерные",
+        "catchphrase": "мила-ашка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Баблс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/de/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%B1%D0%BB%D1%81_NH.png/revision/latest?cb=20200402202033&path-prefix=ru",
+        "birthday": "1997-03-17T21:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Бодрые",
+        "catchphrase": "хипстер",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Бад",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/51/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%B4%D0%B0_NH.png/revision/latest?cb=20200402202046&path-prefix=ru",
+        "birthday": "1997-08-07T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Спортивные",
+        "catchphrase": "че-е-ел",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Базз",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%B7%D0%B7%D0%B0_NH.png/revision/latest?cb=20200402202103&path-prefix=ru",
+        "birthday": "1997-12-06T21:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Капризные",
+        "catchphrase": "капитан",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Бак",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%BA%D0%B0_NH.png/revision/latest?cb=20200402202040&path-prefix=ru",
+        "birthday": "1997-04-03T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Спортивные",
+        "catchphrase": "партнер",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Бам",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%BC%D0%B0_NH.png/revision/latest?cb=20200402200626&path-prefix=ru",
+        "birthday": "1997-11-06T21:00:00.000Z",
+        "type": "Олень",
+        "personality": "Спортивные",
+        "catchphrase": "скок-скок",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Банни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/8c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D0%BD%D0%BD%D0%B8_NH.png/revision/latest?cb=20200402202052&path-prefix=ru",
+        "birthday": "1997-05-08T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "хи-хи",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Барольд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/31/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0_NH.png/revision/latest?cb=20200402200637&path-prefix=ru",
+        "birthday": "1997-02-01T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Ленивые",
+        "catchphrase": "берлога",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Беа",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/79/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D0%B0_NH.png/revision/latest?cb=20200402200643&path-prefix=ru",
+        "birthday": "1997-10-15T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Обычные",
+        "catchphrase": "динго",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Беардо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D0%B0%D1%80%D0%B4%D0%BE_NH.png/revision/latest?cb=20200402201611&path-prefix=ru",
+        "birthday": "1997-03-26T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Самодовольные",
+        "catchphrase": "усы мои",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Бекки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D0%BA%D0%BA%D0%B8_NH.png/revision/latest?cb=20200402201623&path-prefix=ru",
+        "birthday": "1997-12-08T21:00:00.000Z",
+        "type": "Курица",
+        "personality": "Высокомерные",
+        "catchphrase": "модненько",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Белла",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D0%BB%D0%BB%D1%8B_NH.png/revision/latest?cb=20200402201628&path-prefix=ru",
+        "birthday": "1997-12-28T00:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Бодрые",
+        "catchphrase": "пип",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Бенедикт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82%D0%B0_NH.png/revision/latest?cb=20200402201636&path-prefix=ru",
+        "birthday": "1997-10-10T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Ленивые",
+        "catchphrase": "о-ко-ко",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бернардо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/01/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4%D0%BE_NH.png/revision/latest?cb=20200402201641&path-prefix=ru",
+        "birthday": "1997-08-02T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "пор-рядок",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Берта",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D1%80%D1%82%D1%8B_NH.png/revision/latest?cb=20200402201652&path-prefix=ru",
+        "birthday": "1997-04-24T20:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Обычные",
+        "catchphrase": "бултых",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Беттина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B5%D1%82%D1%82%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200402201701&path-prefix=ru",
+        "birthday": "1997-06-11T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Обычные",
+        "catchphrase": "пи-пи-пи",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Биг-Топ",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/70/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D0%B3-%D0%A2%D0%BE%D0%BF%D0%B0_NH.png/revision/latest?cb=20200402201720&path-prefix=ru",
+        "birthday": "1997-10-02T20:00:00.000Z",
+        "type": "Слон",
+        "personality": "Ленивые",
+        "catchphrase": "хитрюга",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Билл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/09/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D0%BB%D0%BB%D0%B0_NH.png/revision/latest?cb=20200402201735&path-prefix=ru",
+        "birthday": "1997-01-31T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Спортивные",
+        "catchphrase": "кряко",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Билли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200402201805&path-prefix=ru",
+        "birthday": "1997-02-24T21:00:00.000Z",
+        "type": "Коза",
+        "personality": "Спортивные",
+        "catchphrase": "такие-сякие",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бискит",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D1%81%D0%BA%D0%B8%D1%82%D0%B0_NH.png/revision/latest?cb=20200402201817&path-prefix=ru",
+        "birthday": "1997-05-12T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "пр-риятяв",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Битти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/ff/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200402201831&path-prefix=ru",
+        "birthday": "1997-10-05T20:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Высокомерные",
+        "catchphrase": "дорогуша",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Бифф",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%B8%D1%84%D1%84%D0%B0_NH.png/revision/latest?cb=20200402201714&path-prefix=ru",
+        "birthday": "1997-02-28T21:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Спортивные",
+        "catchphrase": "малек",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Бланш",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/87/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BB%D0%B0%D0%BD%D1%88_NH.png/revision/latest?cb=20200402201857&path-prefix=ru",
+        "birthday": "1997-12-21T00:00:00.000Z",
+        "type": "Страус",
+        "personality": "Высокомерные",
+        "catchphrase": "вот так",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Блер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/09/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BB%D0%B5%D1%80_NH.png/revision/latest?cb=20200402201846&path-prefix=ru",
+        "birthday": "1997-07-02T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Высокомерные",
+        "catchphrase": "крошка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Блюбеар",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/68/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BB%D1%8E%D0%B1%D0%B5%D0%B0%D1%80_NH.png/revision/latest?cb=20200402201903&path-prefix=ru",
+        "birthday": "1997-06-23T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Бодрые",
+        "catchphrase": "персик",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Боб",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/72/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BE%D0%B1%D0%B0_NH.png/revision/latest?cb=20200402201909&path-prefix=ru",
+        "birthday": "1996-12-31T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Ленивые",
+        "catchphrase": "кх-кх-кх",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бойд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/86/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BE%D0%B9%D0%B4%D0%B0_NH.png/revision/latest?cb=20200402201954&path-prefix=ru",
+        "birthday": "1997-09-30T20:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Капризные",
+        "catchphrase": "ух-ох",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Бонбон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BE%D0%BD%D0%B1%D0%BE%D0%BD_NH.png/revision/latest?cb=20200402201915&path-prefix=ru",
+        "birthday": "1997-02-02T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "вкусняшка",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Борис",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0_NH.png/revision/latest?cb=20200402201947&path-prefix=ru",
+        "birthday": "1997-11-05T21:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Капризные",
+        "catchphrase": "хрю-хряк",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Боунс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/04/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D0%BE%D1%83%D0%BD%D1%81%D0%B0_NH.png/revision/latest?cb=20200402201924&path-prefix=ru",
+        "birthday": "1997-08-03T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "тяв-тяв",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%80%D0%B8_NH.png/revision/latest?cb=20200402201959&path-prefix=ru",
+        "birthday": "1997-07-06T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Высокомерные",
+        "catchphrase": "сы-ы-ыр",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Брокколо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%80%D0%BE%D0%BA%D0%BA%D0%BE%D0%BB%D0%BE_NH.png/revision/latest?cb=20200402202011&path-prefix=ru",
+        "birthday": "1997-06-29T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Ленивые",
+        "catchphrase": "ням-ням",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Броффина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ac/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%80%D0%BE%D1%84%D1%84%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200402202018&path-prefix=ru",
+        "birthday": "1997-10-24T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Высокомерные",
+        "catchphrase": "ки-ки-ки",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Брюс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%80%D1%8E%D1%81%D0%B0_NH.png/revision/latest?cb=20200402202025&path-prefix=ru",
+        "birthday": "1997-05-25T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Капризные",
+        "catchphrase": "забияка",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Бумер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%83%D0%BC%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200402201930&path-prefix=ru",
+        "birthday": "1997-02-06T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Ленивые",
+        "catchphrase": "человек",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Бун",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%83%D0%BD%D0%B0_NH.png/revision/latest?cb=20200402201935&path-prefix=ru",
+        "birthday": "1997-03-11T21:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Спортивные",
+        "catchphrase": "бабум",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Бутс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ae/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%83%D1%82%D1%81%D0%B0_NH.png/revision/latest?cb=20200402201940&path-prefix=ru",
+        "birthday": "1997-08-06T20:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Спортивные",
+        "catchphrase": "кусь",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бутч",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/00/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%83%D1%82%D1%87%D0%B0_NH.png/revision/latest?cb=20200402202058&path-prefix=ru",
+        "birthday": "1997-10-31T21:00:00.000Z",
+        "type": "Собака",
+        "personality": "Капризные",
+        "catchphrase": "ррр-гав",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Бью",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%8C%D1%8E_NH.png/revision/latest?cb=20200402201618&path-prefix=ru",
+        "birthday": "1997-04-04T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Ленивые",
+        "catchphrase": "соль-соль",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Бьянка",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/68/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%8C%D1%8F%D0%BD%D0%BA%D0%B8_NH.png/revision/latest?cb=20200402201707&path-prefix=ru",
+        "birthday": "1997-12-13T00:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Бодрые",
+        "catchphrase": "хлоп-хлоп",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Бэнгл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/81/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%8D%D0%BD%D0%B3%D0%BB_NH.png/revision/latest?cb=20200402200632&path-prefix=ru",
+        "birthday": "1997-08-26T20:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Бодрые",
+        "catchphrase": "р-р-рф",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Варт-мл.",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B0%D1%80%D1%82%D0%B0-%D0%BC%D0%BB._NH.png/revision/latest?cb=20200531084616&path-prefix=ru",
+        "birthday": "1997-08-20T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Капризные",
+        "catchphrase": "ква-ква",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Вебер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B5%D0%B1%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200531084635&path-prefix=ru",
+        "birthday": "1997-06-29T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Ленивые",
+        "catchphrase": "кря-а",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Велма",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ea/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B5%D0%BB%D0%BC%D1%8B_NH.png/revision/latest?cb=20200531084654&path-prefix=ru",
+        "birthday": "1997-01-13T21:00:00.000Z",
+        "type": "Коза",
+        "personality": "Высокомерные",
+        "catchphrase": "ме-е-е",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Венди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/52/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B5%D0%BD%D0%B4%D0%B8_NH.png/revision/latest?cb=20200531084734&path-prefix=ru",
+        "birthday": "1997-08-14T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Бодрые",
+        "catchphrase": "овечка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Веста",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B5%D1%81%D1%82%D1%8B_NH.png/revision/latest?cb=20200531084756&path-prefix=ru",
+        "birthday": "1997-04-15T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Обычные",
+        "catchphrase": "бе-е",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Вивьен",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/47/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B8%D0%B2%D1%8C%D0%B5%D0%BD_NH.png/revision/latest?cb=20200531084815&path-prefix=ru",
+        "birthday": "1997-01-25T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Высокомерные",
+        "catchphrase": "вздор",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Вик",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B8%D0%BA%D0%B0_NH.png/revision/latest?cb=20200531084833&path-prefix=ru",
+        "birthday": "1997-12-29T00:00:00.000Z",
+        "type": "Бык",
+        "personality": "Капризные",
+        "catchphrase": "полундра",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Виктория",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B8_NH.png/revision/latest?cb=20200531084852&path-prefix=ru",
+        "birthday": "1997-07-10T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Бодрые",
+        "catchphrase": "сахарок",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Винни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%B8%D0%BD%D0%BD%D0%B8_NH.png/revision/latest?cb=20200531084933&path-prefix=ru",
+        "birthday": "1997-01-30T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Бодрые",
+        "catchphrase": "тык-дык",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Владимир",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/44/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0_NH.png/revision/latest?cb=20200531084952&path-prefix=ru",
+        "birthday": "1997-08-01T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Капризные",
+        "catchphrase": "ну не-е-ет",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Вольфи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/62/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B8_NH.png/revision/latest?cb=20200531085009&path-prefix=ru",
+        "birthday": "1997-11-25T00:00:00.000Z",
+        "type": "Волк",
+        "personality": "Капризные",
+        "catchphrase": "ау-рр",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Габи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D0%B1%D0%B8_NH.png/revision/latest?cb=20200531085030&path-prefix=ru",
+        "birthday": "1997-12-16T00:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "зайчик мой",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Гала",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D0%BB%D1%8B_NH.png/revision/latest?cb=20200531085049&path-prefix=ru",
+        "birthday": "1997-02-04T21:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Обычные",
+        "catchphrase": "хрюк",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Гамлет",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ef/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82%D0%B0_NH.png/revision/latest?cb=20200531085107&path-prefix=ru",
+        "birthday": "1997-05-29T20:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Спортивные",
+        "catchphrase": "хомячок",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Ганс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/25/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D0%BD%D1%81%D0%B0_NH.png/revision/latest?cb=20200531085127&path-prefix=ru",
+        "birthday": "1997-12-04T21:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Самодовольные",
+        "catchphrase": "респект",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Гарри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/44/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D1%80%D1%80%D0%B8_NH.png/revision/latest?cb=20200531085154&path-prefix=ru",
+        "birthday": "1997-01-06T21:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Капризные",
+        "catchphrase": "лежебока",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Гастон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/86/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B0%D1%81%D1%82%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200531085216&path-prefix=ru",
+        "birthday": "1997-10-28T00:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Капризные",
+        "catchphrase": "мон зайшу",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Гвен",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/27/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B2%D0%B5%D0%BD_NH.png/revision/latest?cb=20200531085253&path-prefix=ru",
+        "birthday": "1997-01-22T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Высокомерные",
+        "catchphrase": "м-милашка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Гейл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/df/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B5%D0%B9%D0%BB_NH.png/revision/latest?cb=20200531085330&path-prefix=ru",
+        "birthday": "1997-05-16T20:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Обычные",
+        "catchphrase": "перекус",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Генри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B5%D0%BD%D1%80%D0%B8_NH.png/revision/latest?cb=20200531085410&path-prefix=ru",
+        "birthday": "1997-03-20T21:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Самодовольные",
+        "catchphrase": "ква-храп",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Геррит",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%B0_NH.png/revision/latest?cb=20211108052706&path-prefix=ru",
+        "birthday": "1997-05-18T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Ленивые",
+        "catchphrase": "попрыгайка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Гиппо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%B8%D0%BF%D0%BF%D0%BE_NH.png/revision/latest?cb=20200531085449&path-prefix=ru",
+        "birthday": "1997-10-15T00:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Самодовольные",
+        "catchphrase": "естессно",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Глория",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%BB%D0%BE%D1%80%D0%B8%D0%B8_NH.png/revision/latest?cb=20200531085530&path-prefix=ru",
+        "birthday": "1997-08-11T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Высокомерные",
+        "catchphrase": "не кряк ли",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Глэдис",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/28/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%BB%D1%8D%D0%B4%D0%B8%D1%81_NH.png/revision/latest?cb=20200531085613&path-prefix=ru",
+        "birthday": "1997-01-14T21:00:00.000Z",
+        "type": "Страус",
+        "personality": "Обычные",
+        "catchphrase": "растяжка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Голди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/21/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%BE%D0%BB%D0%B4%D0%B8_NH.png/revision/latest?cb=20200531085658&path-prefix=ru",
+        "birthday": "1997-12-27T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Обычные",
+        "catchphrase": "тяв",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Гонзо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D0%BE%D0%BD%D0%B7%D0%BE_NH.png/revision/latest?cb=20200531085740&path-prefix=ru",
+        "birthday": "1997-10-13T00:00:00.000Z",
+        "type": "Коала",
+        "personality": "Капризные",
+        "catchphrase": "напарник",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Граучо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/15/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%80%D0%B0%D1%83%D1%87%D0%BE_NH.png/revision/latest?cb=20200531085855&path-prefix=ru",
+        "birthday": "1997-10-23T00:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Капризные",
+        "catchphrase": "бур-бур",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Графф",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/79/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%80%D0%B0%D1%84%D1%84%D0%B0_NH.png/revision/latest?cb=20200531090010&path-prefix=ru",
+        "birthday": "1997-08-28T20:00:00.000Z",
+        "type": "Коза",
+        "personality": "Капризные",
+        "catchphrase": "ме-хе-хе",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Грета",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%80%D0%B5%D1%82%D1%8B_NH.png/revision/latest?cb=20200531090122&path-prefix=ru",
+        "birthday": "1997-03-04T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Высокомерные",
+        "catchphrase": "писк",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Гризли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%80%D0%B8%D0%B7%D0%BB%D0%B8_NH.png/revision/latest?cb=20200531090229&path-prefix=ru",
+        "birthday": "1997-07-30T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Капризные",
+        "catchphrase": "грр",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Грэм",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%80%D1%8D%D0%BC%D0%B0_NH.png/revision/latest?cb=20200531090340&path-prefix=ru",
+        "birthday": "1997-06-19T20:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Самодовольные",
+        "catchphrase": "резонно",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Гус",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/18/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%83%D1%81%D0%B0_NH.png/revision/latest?cb=20200531090457&path-prefix=ru",
+        "birthday": "1997-10-03T20:00:00.000Z",
+        "type": "Курица",
+        "personality": "Спортивные",
+        "catchphrase": "ко-кей",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Гэндзи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/68/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%93%D1%8D%D0%BD%D0%B4%D0%B7%D0%B8_NH.png/revision/latest?cb=20200531090601&path-prefix=ru",
+        "birthday": "1997-01-20T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Спортивные",
+        "catchphrase": "зайпончик",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Дейзи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/23/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B5%D0%B9%D0%B7%D0%B8_NH.png/revision/latest?cb=20200531091019&path-prefix=ru",
+        "birthday": "1997-11-16T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Обычные",
+        "catchphrase": "тяв-ого",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Дейрдре",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B5%D0%B9%D1%80%D0%B4%D1%80%D0%B5_NH.png/revision/latest?cb=20200531091122&path-prefix=ru",
+        "birthday": "1997-05-03T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Заботливые",
+        "catchphrase": "как-то так",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Дел",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B5%D0%BB%D0%B0_NH.png/revision/latest?cb=20200531091221&path-prefix=ru",
+        "birthday": "1997-05-26T20:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Капризные",
+        "catchphrase": "щелк",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Дели",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B5%D0%BB%D0%B8_NH.png/revision/latest?cb=20200531091318&path-prefix=ru",
+        "birthday": "1997-05-23T20:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Ленивые",
+        "catchphrase": "чавк-чавк",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Дервин",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/50/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B5%D1%80%D0%B2%D0%B8%D0%BD%D0%B0_NH.png/revision/latest?cb=20200531112557&path-prefix=ru",
+        "birthday": "1997-05-24T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Ленивые",
+        "catchphrase": "кррря",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Джей",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/01/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D1%8F_NH.png/revision/latest?cb=20200531112849&path-prefix=ru",
+        "birthday": "1997-07-16T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Спортивные",
+        "catchphrase": "хей-хей",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Джейкоб",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/db/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1%D0%B0_NH.png/revision/latest?cb=20200531112907&path-prefix=ru",
+        "birthday": "1997-08-23T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Ленивые",
+        "catchphrase": "чуррп",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Джембет",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D0%BC%D0%B1%D0%B5%D1%82_NH.png/revision/latest?cb=20200531113028&path-prefix=ru",
+        "birthday": "1997-10-27T00:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Обычные",
+        "catchphrase": "кво-кей",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Джеремия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/70/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601064822&path-prefix=ru",
+        "birthday": "1997-07-07T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Ленивые",
+        "catchphrase": "буль-буль",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Джиджи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B8%D0%B4%D0%B6%D0%B8_NH.png/revision/latest?cb=20200601064929&path-prefix=ru",
+        "birthday": "1997-08-10T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Высокомерные",
+        "catchphrase": "квакет",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Джиттерс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/35/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%B8%D1%82%D1%82%D0%B5%D1%80%D1%81%D0%B0_NH.png/revision/latest?cb=20200601064953&path-prefix=ru",
+        "birthday": "1997-02-01T21:00:00.000Z",
+        "type": "Птица",
+        "personality": "Спортивные",
+        "catchphrase": "бзе-е-ерт",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Джоуи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/34/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D0%BE%D1%83%D0%B8_NH.png/revision/latest?cb=20200601065020&path-prefix=ru",
+        "birthday": "1997-01-02T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Ленивые",
+        "catchphrase": "кряк",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Джуди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D1%83%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601065104&path-prefix=ru",
+        "birthday": "1997-02-09T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Высокомерные",
+        "catchphrase": "охохонюшки",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Джулиан",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/70/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%B0%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601065131&path-prefix=ru",
+        "birthday": "1997-02-14T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Самодовольные",
+        "catchphrase": "блеск",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Джулия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601065204&path-prefix=ru",
+        "birthday": "1997-07-30T20:00:00.000Z",
+        "type": "Страус",
+        "personality": "Высокомерные",
+        "catchphrase": "дарлинг",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Джун",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/65/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B6%D1%83%D0%BD_NH.png/revision/latest?cb=20200601065228&path-prefix=ru",
+        "birthday": "1997-05-20T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Обычные",
+        "catchphrase": "радуга-дуга",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Диана",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/25/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B8%D0%B0%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601065316&path-prefix=ru",
+        "birthday": "1997-01-03T21:00:00.000Z",
+        "type": "Олень",
+        "personality": "Высокомерные",
+        "catchphrase": "еще бы",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Дива",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/be/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B8%D0%B2%D1%8B_NH.png/revision/latest?cb=20200601065323&path-prefix=ru",
+        "birthday": "1997-10-01T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Заботливые",
+        "catchphrase": "знаешь",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Диззи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/fa/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B8%D0%B7%D0%B7%D0%B8_NH.png/revision/latest?cb=20200601065333&path-prefix=ru",
+        "birthday": "1997-01-13T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Ленивые",
+        "catchphrase": "тру-ру",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Дина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/89/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601065411&path-prefix=ru",
+        "birthday": "1997-06-26T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Обычные",
+        "catchphrase": "кря-кря",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Доби",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%BE%D0%B1%D0%B8_NH.png/revision/latest?cb=20200601065416&path-prefix=ru",
+        "birthday": "1997-02-16T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Капризные",
+        "catchphrase": "ом-м-м…",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Док",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ad/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%BE%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601065424&path-prefix=ru",
+        "birthday": "1997-02-15T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Ленивые",
+        "catchphrase": "зайчище",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Дом",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%BE%D0%BC%D0%B0_NH.png/revision/latest?cb=20200601065449&path-prefix=ru",
+        "birthday": "1997-02-17T21:00:00.000Z",
+        "type": "Овца",
+        "personality": "Спортивные",
+        "catchphrase": "точно-точно",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Дора",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%BE%D1%80%D1%8B_NH.png/revision/latest?cb=20200601065502&path-prefix=ru",
+        "birthday": "1997-02-17T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Обычные",
+        "catchphrase": "пип-пип",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Дотти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D0%BE%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200601065517&path-prefix=ru",
+        "birthday": "1997-02-13T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "малыш",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Драго",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/52/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D1%80%D0%B0%D0%B3%D0%BE_NH.png/revision/latest?cb=20200601065551&path-prefix=ru",
+        "birthday": "1997-02-11T21:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Ленивые",
+        "catchphrase": "огонь",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Дрейк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ab/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D1%80%D0%B5%D0%B9%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601065557&path-prefix=ru",
+        "birthday": "1997-06-24T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Ленивые",
+        "catchphrase": "кряко",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Дрифт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/62/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%94%D1%80%D0%B8%D1%84%D1%82%D0%B0_NH.png/revision/latest?cb=20200601065608&path-prefix=ru",
+        "birthday": "1997-10-08T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Спортивные",
+        "catchphrase": "бро",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Жак",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%96%D0%B0%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601074347&path-prefix=ru",
+        "birthday": "1997-06-21T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Самодовольные",
+        "catchphrase": "фу ты",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Зелл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%97%D0%B5%D0%BB%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601074405&path-prefix=ru",
+        "birthday": "1997-06-06T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Самодовольные",
+        "catchphrase": "прыг-прыг",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Зои",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%97%D0%BE%D0%B8_NH.png/revision/latest?cb=20211108052729&path-prefix=ru",
+        "birthday": "1997-02-09T21:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Обычные",
+        "catchphrase": "пых-пых",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Игли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%98%D0%B3%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601074413&path-prefix=ru",
+        "birthday": "1997-11-01T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Спортивные",
+        "catchphrase": "ластошлеп",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Ионе",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%98%D0%BE%D0%BD%D0%B5_NH.png/revision/latest?cb=20211108052753&path-prefix=ru",
+        "birthday": "1997-09-10T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "сияние",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Кабуки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/94/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D0%B1%D1%83%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601074433&path-prefix=ru",
+        "birthday": "1997-11-29T00:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Капризные",
+        "catchphrase": "мя-я-яу",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Кайл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D0%B9%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601074439&path-prefix=ru",
+        "birthday": "1997-12-05T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Самодовольные",
+        "catchphrase": "вожак",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Камофрог",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/36/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D0%BC%D0%BE%D1%84%D1%80%D0%BE%D0%B3%D0%B0_NH.png/revision/latest?cb=20200601074447&path-prefix=ru",
+        "birthday": "1997-06-04T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Капризные",
+        "catchphrase": "шагом-квак",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Канберра",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D0%BD%D0%B1%D0%B5%D1%80%D1%80%D1%8B_NH.png/revision/latest?cb=20200601074455&path-prefix=ru",
+        "birthday": "1997-05-13T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Заботливые",
+        "catchphrase": "ох-хо",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Кармен",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D1%80%D0%BC%D0%B5%D0%BD_NH.png/revision/latest?cb=20200601074501&path-prefix=ru",
+        "birthday": "1997-01-05T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "карамелька",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Каролина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601074507&path-prefix=ru",
+        "birthday": "1997-07-14T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "уа-а-а",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Кашмир",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/89/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B0%D1%88%D0%BC%D0%B8%D1%80_NH.png/revision/latest?cb=20200601074514&path-prefix=ru",
+        "birthday": "1997-04-01T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Высокомерные",
+        "catchphrase": "бэ-эби",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Квилсон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/82/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B2%D0%B8%D0%BB%D1%81%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601074723&path-prefix=ru",
+        "birthday": "1997-12-22T00:00:00.000Z",
+        "type": "Утка",
+        "personality": "Самодовольные",
+        "catchphrase": "шу-утка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Квини",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/05/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B2%D0%B8%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601074737&path-prefix=ru",
+        "birthday": "1997-11-13T00:00:00.000Z",
+        "type": "Страус",
+        "personality": "Высокомерные",
+        "catchphrase": "цыпленок",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Квинн",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B2%D0%B8%D0%BD%D0%BD_NH.png/revision/latest?cb=20211108052816&path-prefix=ru",
+        "birthday": "1997-01-19T21:00:00.000Z",
+        "type": "Орел (страница не существует)",
+        "personality": "Заботливые",
+        "catchphrase": "аккуратно",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Кевин",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601074757&path-prefix=ru",
+        "birthday": "1997-04-25T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Спортивные",
+        "catchphrase": "уи-и-и",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Кен",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/40/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601074807&path-prefix=ru",
+        "birthday": "1997-12-23T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Самодовольные",
+        "catchphrase": "это точно",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Керли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/96/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D1%80%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601074821&path-prefix=ru",
+        "birthday": "1997-07-25T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Спортивные",
+        "catchphrase": "хряк-бряк",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Керлос",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D1%80%D0%BB%D0%BE%D1%81%D0%B0_NH.png/revision/latest?cb=20200601074827&path-prefix=ru",
+        "birthday": "1997-05-07T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Самодовольные",
+        "catchphrase": "завитушка",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Керт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D1%80%D1%82%D0%B0_NH.png/revision/latest?cb=20200601074836&path-prefix=ru",
+        "birthday": "1997-06-30T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Капризные",
+        "catchphrase": "махрово",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Кетчуп",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/cb/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B5%D1%82%D1%87%D1%83%D0%BF_NH.png/revision/latest?cb=20200601074856&path-prefix=ru",
+        "birthday": "1997-07-26T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Бодрые",
+        "catchphrase": "покрякушка",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Кид Кэт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/44/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D0%B4_%D0%9A%D1%8D%D1%82%D0%B0_NH.png/revision/latest?cb=20200601074918&path-prefix=ru",
+        "birthday": "1997-07-31T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Спортивные",
+        "catchphrase": "шш",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Кидд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D0%B4%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601074923&path-prefix=ru",
+        "birthday": "1997-06-27T20:00:00.000Z",
+        "type": "Коза",
+        "personality": "Самодовольные",
+        "catchphrase": "так",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Кики",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601074928&path-prefix=ru",
+        "birthday": "1997-10-07T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Обычные",
+        "catchphrase": "кисуля",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Китон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D1%82%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601074935&path-prefix=ru",
+        "birthday": "1997-05-31T20:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Самодовольные",
+        "catchphrase": "крыло",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Китт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D1%82%D1%82_NH.png/revision/latest?cb=20200601074940&path-prefix=ru",
+        "birthday": "1997-10-11T00:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Обычные",
+        "catchphrase": "детка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Китти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%B8%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200601074946&path-prefix=ru",
+        "birthday": "1997-02-14T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Высокомерные",
+        "catchphrase": "мр-мр-мр",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Клайд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/82/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D0%B0%D0%B9%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601075021&path-prefix=ru",
+        "birthday": "1997-04-30T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Ленивые",
+        "catchphrase": "цок-цок",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Клаудия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/fe/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601075026&path-prefix=ru",
+        "birthday": "1997-11-22T00:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Высокомерные",
+        "catchphrase": "о-ля-ля",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Клаус",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D0%B0%D1%83%D1%81%D0%B0_NH.png/revision/latest?cb=20200601075034&path-prefix=ru",
+        "birthday": "1997-03-02T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Самодовольные",
+        "catchphrase": "штрудель",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Клео",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D0%B5%D0%BE_NH.png/revision/latest?cb=20200601075040&path-prefix=ru",
+        "birthday": "1997-02-08T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Высокомерные",
+        "catchphrase": "рафинад",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Клод",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ab/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D0%BE%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601075045&path-prefix=ru",
+        "birthday": "1997-12-02T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Ленивые",
+        "catchphrase": "скок-поскок",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Клэй",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BB%D1%8D%D1%8F_NH.png/revision/latest?cb=20200601075052&path-prefix=ru",
+        "birthday": "1997-10-19T00:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Ленивые",
+        "catchphrase": "стук-стук",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Кобб",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D0%B1%D0%B1%D0%B0_NH.png/revision/latest?cb=20200601075120&path-prefix=ru",
+        "birthday": "1997-10-06T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Спортивные",
+        "catchphrase": "сосиска",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Коди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/aa/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601075129&path-prefix=ru",
+        "birthday": "1997-03-27T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Спортивные",
+        "catchphrase": "гррр",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Коко",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/94/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D0%BA%D0%BE_NH.png/revision/latest?cb=20200601075142&path-prefix=ru",
+        "birthday": "1997-01-31T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Обычные",
+        "catchphrase": "прыг-скок",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Колтон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D0%BB%D1%82%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601075151&path-prefix=ru",
+        "birthday": "1997-05-21T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Самодовольные",
+        "catchphrase": "глянь",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Конга",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/99/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D0%BD%D0%B3%D0%B8_NH.png/revision/latest?cb=20200601075202&path-prefix=ru",
+        "birthday": "1997-08-31T20:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Высокомерные",
+        "catchphrase": "сластена",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Коул",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D1%83%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601075210&path-prefix=ru",
+        "birthday": "1997-08-09T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Ленивые",
+        "catchphrase": "зайчелло",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Коуч",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D0%BE%D1%83%D1%87%D0%B0_NH.png/revision/latest?cb=20200601075218&path-prefix=ru",
+        "birthday": "1997-04-28T20:00:00.000Z",
+        "type": "Бык",
+        "personality": "Спортивные",
+        "catchphrase": "раз-два",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Крисси",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%80%D0%B8%D1%81%D1%81%D0%B8_NH.png/revision/latest?cb=20200601075234&path-prefix=ru",
+        "birthday": "1997-08-27T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "золотце",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Крок",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/bf/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%80%D0%BE%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601075239&path-prefix=ru",
+        "birthday": "1997-07-17T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Капризные",
+        "catchphrase": "вроде того",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Крэкл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%80%D1%8D%D0%BA%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601075253&path-prefix=ru",
+        "birthday": "1997-03-02T21:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Ленивые",
+        "catchphrase": "хрю",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Крэнстон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%80%D1%8D%D0%BD%D1%81%D1%82%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601075258&path-prefix=ru",
+        "birthday": "1997-03-22T21:00:00.000Z",
+        "type": "Страус",
+        "personality": "Ленивые",
+        "catchphrase": "не потей",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Куки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/97/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%83%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601072847&path-prefix=ru",
+        "birthday": "1997-06-17T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Бодрые",
+        "catchphrase": "гав-гав",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Кусто",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ee/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%83%D1%81%D1%82%D0%BE_NH.png/revision/latest?cb=20200601075311&path-prefix=ru",
+        "birthday": "1997-12-17T00:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Спортивные",
+        "catchphrase": "уи-уи",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Кьюб",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/39/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%8C%D1%8E%D0%B1%D0%B0_NH.png/revision/latest?cb=20200601075316&path-prefix=ru",
+        "birthday": "1997-01-28T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Ленивые",
+        "catchphrase": "ч-чубрик",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Кэлли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ef/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%8D%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200402202108&path-prefix=ru",
+        "birthday": "1997-03-03T21:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "ух ты",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Кэнди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/66/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%8D%D0%BD%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601075346&path-prefix=ru",
+        "birthday": "1997-04-12T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Бодрые",
+        "catchphrase": "сладость",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Кэрри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%8D%D1%80%D1%80%D0%B8_NH.png/revision/latest?cb=20200601075400&path-prefix=ru",
+        "birthday": "1997-12-04T21:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Обычные",
+        "catchphrase": "дитятко",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Кэт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%8D%D1%82_NH.png/revision/latest?cb=20200601075410&path-prefix=ru",
+        "birthday": "1997-04-26T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Заботливые",
+        "catchphrase": "хор-р-рошо",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Лайман",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/07/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601075432&path-prefix=ru",
+        "birthday": "1997-10-12T00:00:00.000Z",
+        "type": "Коала",
+        "personality": "Спортивные",
+        "catchphrase": "ничего",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Лайонел",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/97/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601075439&path-prefix=ru",
+        "birthday": "1997-07-28T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Самодовольные",
+        "catchphrase": "честь имею",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Лаки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/46/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B0%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601075447&path-prefix=ru",
+        "birthday": "1997-11-03T21:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "ррр-ой-ой",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Леонардо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE_NH.png/revision/latest?cb=20200601075500&path-prefix=ru",
+        "birthday": "1997-05-14T20:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Спортивные",
+        "catchphrase": "р-разминка",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Леопольд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/74/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601075506&path-prefix=ru",
+        "birthday": "1997-08-13T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Самодовольные",
+        "catchphrase": "левушка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Лиза",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B8%D0%B7%D1%8B_NH.png/revision/latest?cb=20200402192631&path-prefix=ru",
+        "birthday": "1997-12-01T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Бодрые",
+        "catchphrase": "кусь-кусь",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Лили",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/68/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B8%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601075522&path-prefix=ru",
+        "birthday": "1997-02-03T21:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Обычные",
+        "catchphrase": "ква",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Лимберг",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/dd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%B8%D0%BC%D0%B1%D0%B5%D1%80%D0%B3%D0%B0_NH.png/revision/latest?cb=20200601075536&path-prefix=ru",
+        "birthday": "1997-10-17T00:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Капризные",
+        "catchphrase": "фью-фью",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Лобо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/cb/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%BE%D0%B1%D0%BE_NH.png/revision/latest?cb=20200601075643&path-prefix=ru",
+        "birthday": "1997-11-04T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Капризные",
+        "catchphrase": "ау-у-у",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Лолли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/74/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%BE%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601075648&path-prefix=ru",
+        "birthday": "1997-02-26T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Обычные",
+        "catchphrase": "конфетка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Лопес",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D0%BE%D0%BF%D0%B5%D1%81%D0%B0_NH.png/revision/latest?cb=20200601075653&path-prefix=ru",
+        "birthday": "1997-08-19T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Самодовольные",
+        "catchphrase": "бубух",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Луи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/8a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D1%83%D0%B8_NH.png/revision/latest?cb=20200601075714&path-prefix=ru",
+        "birthday": "1997-02-25T21:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Спортивные",
+        "catchphrase": "ух-ух-ах",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Луча",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/38/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D1%83%D1%87%D0%B8_NH.png/revision/latest?cb=20200601075719&path-prefix=ru",
+        "birthday": "1997-12-12T00:00:00.000Z",
+        "type": "Птица",
+        "personality": "Самодовольные",
+        "catchphrase": "кар-ко",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Люси",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9B%D1%8E%D1%81%D0%B8_NH.png/revision/latest?cb=20200601075724&path-prefix=ru",
+        "birthday": "1997-06-01T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Обычные",
+        "catchphrase": "хрю-ю-ю",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Мак",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/87/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601075803&path-prefix=ru",
+        "birthday": "1997-11-11T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Спортивные",
+        "catchphrase": "ау-у-гав",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Марджи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/02/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D0%B4%D0%B6%D0%B8_NH.png/revision/latest?cb=20200601075813&path-prefix=ru",
+        "birthday": "1997-01-27T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Обычные",
+        "catchphrase": "тру-у-ти",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Марина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601075824&path-prefix=ru",
+        "birthday": "1997-06-25T20:00:00.000Z",
+        "type": "Осьминог",
+        "personality": "Обычные",
+        "catchphrase": "хлюп",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Марло",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D0%BB%D0%BE_NH.png/revision/latest?cb=20211108052838&path-prefix=ru",
+        "birthday": "1997-06-25T20:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Капризные",
+        "catchphrase": "короче",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Марсель",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/ce/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8F_NH.png/revision/latest?cb=20200601075832&path-prefix=ru",
+        "birthday": "1997-12-31T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "ау-уи",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Марси",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/45/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D1%81%D0%B8_NH.png/revision/latest?cb=20200601075837&path-prefix=ru",
+        "birthday": "1997-05-30T20:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Обычные",
+        "catchphrase": "кармашек",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Маршал",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601075846&path-prefix=ru",
+        "birthday": "1997-03-28T21:00:00.000Z",
+        "type": "Белка",
+        "personality": "Самодовольные",
+        "catchphrase": "тихоня",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Матильда",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%82%D0%B8%D0%BB%D1%8C%D0%B4%D1%8B_NH.png/revision/latest?cb=20200601075855&path-prefix=ru",
+        "birthday": "1997-11-12T00:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Высокомерные",
+        "catchphrase": "малютка",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Маффи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%84%D1%84%D0%B8_NH.png/revision/latest?cb=20200601075903&path-prefix=ru",
+        "birthday": "1997-02-13T21:00:00.000Z",
+        "type": "Овца",
+        "personality": "Заботливые",
+        "catchphrase": "травинка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Маэль",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D1%8D%D0%BB%D1%8C_NH.png/revision/latest?cb=20200601075914&path-prefix=ru",
+        "birthday": "1997-04-07T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Высокомерные",
+        "catchphrase": "желторотик",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Меган",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/10/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD_NH.png/revision/latest?cb=20200601075945&path-prefix=ru",
+        "birthday": "1997-02-12T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Обычные",
+        "catchphrase": "сладенько",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Мейпл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/95/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D0%B9%D0%BF%D0%BB_NH.png/revision/latest?cb=20200601075951&path-prefix=ru",
+        "birthday": "1997-06-14T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Обычные",
+        "catchphrase": "ме-е-ед",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Мельба",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D0%BB%D1%8C%D0%B1%D1%8B_NH.png/revision/latest?cb=20200601080005&path-prefix=ru",
+        "birthday": "1997-04-11T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Обычные",
+        "catchphrase": "хрустяшка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Меренг",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D1%80%D0%B5%D0%BD%D0%B3_NH.png/revision/latest?cb=20200601080014&path-prefix=ru",
+        "birthday": "1997-02-18T21:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Обычные",
+        "catchphrase": "кексик",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Мерри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/49/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D1%80%D1%80%D0%B8_NH.png/revision/latest?cb=20200601080026&path-prefix=ru",
+        "birthday": "1997-06-28T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Бодрые",
+        "catchphrase": "мяуи-и-и",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Мерфи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B5%D1%80%D1%84%D0%B8_NH.png/revision/latest?cb=20200601080046&path-prefix=ru",
+        "birthday": "1997-12-29T00:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Капризные",
+        "catchphrase": "товарищ",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Мидж",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/dd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B8%D0%B4%D0%B6_NH.png/revision/latest?cb=20200601080218&path-prefix=ru",
+        "birthday": "1997-02-11T21:00:00.000Z",
+        "type": "Птица",
+        "personality": "Обычные",
+        "catchphrase": "тви-тви",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Минт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B8%D0%BD%D1%82_NH.png/revision/latest?cb=20200601080227&path-prefix=ru",
+        "birthday": "1997-05-01T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Высокомерные",
+        "catchphrase": "ах-ах",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Мира",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/66/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B8%D1%80%D1%8B_NH.png/revision/latest?cb=20200601080234&path-prefix=ru",
+        "birthday": "1997-07-05T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Заботливые",
+        "catchphrase": "зайцехвост",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Миранда",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B8%D1%80%D0%B0%D0%BD%D0%B4%D1%8B_NH.png/revision/latest?cb=20200601080247&path-prefix=ru",
+        "birthday": "1997-04-22T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Высокомерные",
+        "catchphrase": "покрясающе",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Митци",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%B8%D1%82%D1%86%D0%B8_NH.png/revision/latest?cb=20200601080254&path-prefix=ru",
+        "birthday": "1997-03-24T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Обычные",
+        "catchphrase": "мяу-мяу",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Молли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/17/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601080314&path-prefix=ru",
+        "birthday": "1997-02-06T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Обычные",
+        "catchphrase": "крякульки",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Моник",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA_NH.png/revision/latest?cb=20200601080328&path-prefix=ru",
+        "birthday": "1997-03-29T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Высокомерные",
+        "catchphrase": "фи-фи",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Монти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/48/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_NH.png/revision/latest?cb=20200601080339&path-prefix=ru",
+        "birthday": "1997-12-06T21:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Капризные",
+        "catchphrase": "ух-эх",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Мотт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D1%82%D1%82%D0%B0_NH.png/revision/latest?cb=20200601080346&path-prefix=ru",
+        "birthday": "1997-07-09T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Спортивные",
+        "catchphrase": "зоосад",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Моэ",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D0%BE%D1%8D_NH.png/revision/latest?cb=20200601080356&path-prefix=ru",
+        "birthday": "1997-01-11T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Ленивые",
+        "catchphrase": "мяу-а-а-а",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Муз",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D1%83%D0%B7%D0%B0_NH.png/revision/latest?cb=20200601080453&path-prefix=ru",
+        "birthday": "1997-03-12T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Спортивные",
+        "catchphrase": "коротышка",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Мэгги",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D1%8D%D0%B3%D0%B3%D0%B8_NH.png/revision/latest?cb=20200601080507&path-prefix=ru",
+        "birthday": "1997-03-02T21:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Обычные",
+        "catchphrase": "хрюля",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Мэдди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/13/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D1%8D%D0%B4%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601080512&path-prefix=ru",
+        "birthday": "1997-01-10T21:00:00.000Z",
+        "type": "Собака",
+        "personality": "Бодрые",
+        "catchphrase": "ур-ра",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Мэллари",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/12/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9C%D1%8D%D0%BB%D0%BB%D0%B0%D1%80%D0%B8_NH.png/revision/latest?cb=20200601080518&path-prefix=ru",
+        "birthday": "1997-11-17T00:00:00.000Z",
+        "type": "Утка",
+        "personality": "Высокомерные",
+        "catchphrase": "кряк-фи",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Нана",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%B0%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601080536&path-prefix=ru",
+        "birthday": "1997-08-22T20:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Обычные",
+        "catchphrase": "пу-пу",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Нань",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/ce/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%B0%D0%BD%D1%8C_NH.png/revision/latest?cb=20200601080544&path-prefix=ru",
+        "birthday": "1997-08-23T20:00:00.000Z",
+        "type": "Коза",
+        "personality": "Обычные",
+        "catchphrase": "козленок",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Наоми",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/13/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%B0%D0%BE%D0%BC%D0%B8_NH.png/revision/latest?cb=20200601080554&path-prefix=ru",
+        "birthday": "1997-02-27T21:00:00.000Z",
+        "type": "Корова",
+        "personality": "Высокомерные",
+        "catchphrase": "муля",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Ниблз",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/79/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%B8%D0%B1%D0%BB%D0%B7_NH.png/revision/latest?cb=20200601080630&path-prefix=ru",
+        "birthday": "1997-07-18T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Бодрые",
+        "catchphrase": "орешек",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Нокс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/fd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%BE%D0%BA%D1%81%D0%B0_NH.png/revision/latest?cb=20200601080642&path-prefix=ru",
+        "birthday": "1997-11-23T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Капризные",
+        "catchphrase": "короко",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Норма",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/57/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_NH.png/revision/latest?cb=20200601080650&path-prefix=ru",
+        "birthday": "1997-03-19T21:00:00.000Z",
+        "type": "Корова",
+        "personality": "Обычные",
+        "catchphrase": "до-ре-му",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Нэйт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/28/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9D%D1%8D%D0%B9%D1%82%D0%B0_NH.png/revision/latest?cb=20200601080658&path-prefix=ru",
+        "birthday": "1997-08-15T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Ленивые",
+        "catchphrase": "спа-а-ать",
+        "hobby": "Игры"
+    },
+    {
+        "name": "О'Хэар",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%27%D0%A5%D1%8D%D0%B0%D1%80%D0%B0_NH.png/revision/latest?cb=20200601080731&path-prefix=ru",
+        "birthday": "1997-07-23T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Самодовольные",
+        "catchphrase": "амиго",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Оди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/cb/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%B4%D0%B8_NH.png/revision/latest?cb=20200402192809&path-prefix=ru",
+        "birthday": "1997-08-30T20:00:00.000Z",
+        "type": "Волк",
+        "personality": "Бодрые",
+        "catchphrase": "фокстрот",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Оззи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/89/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%B7%D0%B7%D0%B8_NH.png/revision/latest?cb=20200601080742&path-prefix=ru",
+        "birthday": "1997-05-06T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Ленивые",
+        "catchphrase": "медведище",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Октавиан",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/72/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601080751&path-prefix=ru",
+        "birthday": "1997-03-19T21:00:00.000Z",
+        "type": "Осьминог",
+        "personality": "Капризные",
+        "catchphrase": "все пропало",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Олаф",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%BB%D0%B0%D1%84%D0%B0_NH.png/revision/latest?cb=20200601080758&path-prefix=ru",
+        "birthday": "1997-05-18T20:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Самодовольные",
+        "catchphrase": "уф-уф",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Олив",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/17/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%BB%D0%B8%D0%B2_NH.png/revision/latest?cb=20200601080807&path-prefix=ru",
+        "birthday": "1997-07-11T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Обычные",
+        "catchphrase": "милашка",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Оливия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/03/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601080813&path-prefix=ru",
+        "birthday": "1997-02-02T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Высокомерные",
+        "catchphrase": "мур-мяу",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Опал",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ab/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9E%D0%BF%D0%B0%D0%BB_NH.png/revision/latest?cb=20200601080825&path-prefix=ru",
+        "birthday": "1997-01-19T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Высокомерные",
+        "catchphrase": "хобот",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Падж",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%B4%D0%B6%D0%B0_NH.png/revision/latest?cb=20200601080859&path-prefix=ru",
+        "birthday": "1997-06-10T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Ленивые",
+        "catchphrase": "карапуз",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Пайпер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%B9%D0%BF%D0%B5%D1%80_NH.png/revision/latest?cb=20200601080909&path-prefix=ru",
+        "birthday": "1997-04-17T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Бодрые",
+        "catchphrase": "чики-чик",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Пак",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/04/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601080917&path-prefix=ru",
+        "birthday": "1997-02-20T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Ленивые",
+        "catchphrase": "брр",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Панго",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BD%D0%B3%D0%BE_NH.png/revision/latest?cb=20200601080928&path-prefix=ru",
+        "birthday": "1997-11-08T21:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Бодрые",
+        "catchphrase": "снуф-снуф",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Панчетти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/37/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BD%D1%87%D0%B5%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200601080941&path-prefix=ru",
+        "birthday": "1997-11-14T00:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Высокомерные",
+        "catchphrase": "хрюшка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Панчи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BD%D1%87%D0%B8_NH.png/revision/latest?cb=20200601080951&path-prefix=ru",
+        "birthday": "1997-04-10T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Ленивые",
+        "catchphrase": "отдыхаем",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Паоло",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BE%D0%BB%D0%BE_NH.png/revision/latest?cb=20200601081000&path-prefix=ru",
+        "birthday": "1997-05-04T20:00:00.000Z",
+        "type": "Слон",
+        "personality": "Ленивые",
+        "catchphrase": "друг",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Папи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/01/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D0%BF%D0%B8_NH.png/revision/latest?cb=20200601081017&path-prefix=ru",
+        "birthday": "1997-01-09T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Ленивые",
+        "catchphrase": "се-е-ено",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Паула",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D1%83%D0%BB%D1%8B_NH.png/revision/latest?cb=20200601081025&path-prefix=ru",
+        "birthday": "1997-02-21T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Заботливые",
+        "catchphrase": "йодль",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Пашмина",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/65/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B0%D1%88%D0%BC%D0%B8%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601081034&path-prefix=ru",
+        "birthday": "1997-12-26T00:00:00.000Z",
+        "type": "Коза",
+        "personality": "Заботливые",
+        "catchphrase": "козлятки",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Пегги",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/08/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D0%B3%D0%B3%D0%B8_NH.png/revision/latest?cb=20200601081101&path-prefix=ru",
+        "birthday": "1997-05-22T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Бодрые",
+        "catchphrase": "хрюмпатяга",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пек",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601081108&path-prefix=ru",
+        "birthday": "1997-07-24T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Спортивные",
+        "catchphrase": "тук-тук",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Пекан",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/72/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D0%BA%D0%B0%D0%BD_NH.png/revision/latest?cb=20200601081115&path-prefix=ru",
+        "birthday": "1997-03-09T21:00:00.000Z",
+        "type": "Белка",
+        "personality": "Высокомерные",
+        "catchphrase": "бурундук",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пеко",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D0%BA%D0%BE_NH.png/revision/latest?cb=20200601081125&path-prefix=ru",
+        "birthday": "1997-05-17T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Обычные",
+        "catchphrase": "цветочек",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Перл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/fd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D1%80%D0%BB_NH.png/revision/latest?cb=20200601081134&path-prefix=ru",
+        "birthday": "1997-05-28T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Высокомерные",
+        "catchphrase": "кис-кис",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Петри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/69/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%B8_NH.png/revision/latest?cb=20211108052855&path-prefix=ru",
+        "birthday": "1997-10-23T00:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Высокомерные",
+        "catchphrase": "м-м-м",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Пиви",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/36/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D0%B2%D0%B8_NH.png/revision/latest?cb=20200601081205&path-prefix=ru",
+        "birthday": "1997-03-10T21:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Капризные",
+        "catchphrase": "мелкота",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Пинат",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/25/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D0%BD%D0%B0%D1%82_NH.png/revision/latest?cb=20200601081212&path-prefix=ru",
+        "birthday": "1997-06-07T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Бодрые",
+        "catchphrase": "лень",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пинки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601081223&path-prefix=ru",
+        "birthday": "1997-03-08T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Бодрые",
+        "catchphrase": "ну и ну",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пиппи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D0%BF%D0%BF%D0%B8_NH.png/revision/latest?cb=20200601081233&path-prefix=ru",
+        "birthday": "1997-06-13T20:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "зайчишка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пирс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/ce/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D1%80%D1%81%D0%B0_NH.png/revision/latest?cb=20200601081246&path-prefix=ru",
+        "birthday": "1997-01-07T21:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Спортивные",
+        "catchphrase": "глаз-алмаз",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Пичес",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/08/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%B8%D1%87%D0%B5%D1%81_NH.png/revision/latest?cb=20200601081258&path-prefix=ru",
+        "birthday": "1997-11-28T00:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Обычные",
+        "catchphrase": "соседушка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Плаки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%BB%D0%B0%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601081321&path-prefix=ru",
+        "birthday": "1997-10-12T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Заботливые",
+        "catchphrase": "щип-щип",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Помпом",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%BE%D0%BC%D0%BF%D0%BE%D0%BC_NH.png/revision/latest?cb=20200601081333&path-prefix=ru",
+        "birthday": "1997-02-10T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Бодрые",
+        "catchphrase": "крякушки",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Пончо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/53/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%BE%D0%BD%D1%87%D0%BE_NH.png/revision/latest?cb=20200601081342&path-prefix=ru",
+        "birthday": "1997-01-01T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Спортивные",
+        "catchphrase": "медвежонок",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Поппи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/40/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%BE%D0%BF%D0%BF%D0%B8_NH.png/revision/latest?cb=20200601081351&path-prefix=ru",
+        "birthday": "1997-08-04T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "чок-чок",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Порция",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ae/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D0%BE%D1%80%D1%86%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601081358&path-prefix=ru",
+        "birthday": "1997-10-25T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Высокомерные",
+        "catchphrase": "тяв-ряв",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Принс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/19/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D1%80%D0%B8%D0%BD%D1%81%D0%B0_NH.png/revision/latest?cb=20200601081416&path-prefix=ru",
+        "birthday": "1997-07-20T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Ленивые",
+        "catchphrase": "квак-квак",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Пьетро",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE_NH.png/revision/latest?cb=20200601081425&path-prefix=ru",
+        "birthday": "1997-04-18T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Самодовольные",
+        "catchphrase": "бе-бе",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Пэйт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/bf/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D1%8D%D0%B9%D1%82_NH.png/revision/latest?cb=20200601081434&path-prefix=ru",
+        "birthday": "1997-02-22T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Бодрые",
+        "catchphrase": "кряки-кряк",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Пэтти",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%9F%D1%8D%D1%82%D1%82%D0%B8_NH.png/revision/latest?cb=20200601081449&path-prefix=ru",
+        "birthday": "1997-05-09T20:00:00.000Z",
+        "type": "Корова",
+        "personality": "Бодрые",
+        "catchphrase": "му-му",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Рашер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/08/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B0%D1%88%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601081525&path-prefix=ru",
+        "birthday": "1997-04-06T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Капризные",
+        "catchphrase": "хряк",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Реймонд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/97/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601081532&path-prefix=ru",
+        "birthday": "1997-09-30T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Самодовольные",
+        "catchphrase": "стильненько",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Рекс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/92/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B5%D0%BA%D1%81%D0%B0_NH.png/revision/latest?cb=20200601081542&path-prefix=ru",
+        "birthday": "1997-07-23T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Ленивые",
+        "catchphrase": "спокойно",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Рената",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B5%D0%BD%D0%B0%D1%82%D1%8B_NH.png/revision/latest?cb=20200601081550&path-prefix=ru",
+        "birthday": "1997-01-12T21:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Бодрые",
+        "catchphrase": "плюх",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Рене",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B5%D0%BD%D0%B5_NH.png/revision/latest?cb=20200601081603&path-prefix=ru",
+        "birthday": "1997-05-27T20:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Заботливые",
+        "catchphrase": "йоу",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Рени",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/81/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B5%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601081611&path-prefix=ru",
+        "birthday": "1997-06-03T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Заботливые",
+        "catchphrase": "но-но",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Риббот",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B8%D0%B1%D0%B1%D0%BE%D1%82%D0%B0_NH.png/revision/latest?cb=20200601081631&path-prefix=ru",
+        "birthday": "1997-02-12T21:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Спортивные",
+        "catchphrase": "квак-дзынь",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Рики",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B8%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601081639&path-prefix=ru",
+        "birthday": "1997-03-13T21:00:00.000Z",
+        "type": "Белка",
+        "personality": "Капризные",
+        "catchphrase": "арахис",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Рио",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/22/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B8%D0%BE_NH.png/revision/latest?cb=20211108052919&path-prefix=ru",
+        "birthday": "1997-09-09T20:00:00.000Z",
+        "type": "Страус",
+        "personality": "Бодрые",
+        "catchphrase": "цып-цып",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Риццо",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%B8%D1%86%D1%86%D0%BE_NH.png/revision/latest?cb=20200601081645&path-prefix=ru",
+        "birthday": "1997-01-16T21:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Капризные",
+        "catchphrase": "пи-и-и",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Роальд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/64/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B0%D0%BB%D1%8C%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601081723&path-prefix=ru",
+        "birthday": "1997-01-04T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Спортивные",
+        "catchphrase": "д-дружище",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Робин",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/39/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD_NH.png/revision/latest?cb=20200601081732&path-prefix=ru",
+        "birthday": "1997-12-03T21:00:00.000Z",
+        "type": "Птица",
+        "personality": "Высокомерные",
+        "catchphrase": "ля-ля-ля",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Род",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601081743&path-prefix=ru",
+        "birthday": "1997-08-13T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Спортивные",
+        "catchphrase": "мастерски",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Родео",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BE_NH.png/revision/latest?cb=20200601081752&path-prefix=ru",
+        "birthday": "1997-10-29T00:00:00.000Z",
+        "type": "Бык",
+        "personality": "Ленивые",
+        "catchphrase": "ковбой",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Родни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/97/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601081803&path-prefix=ru",
+        "birthday": "1997-11-10T00:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Самодовольные",
+        "catchphrase": "ле хом",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Рози",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/22/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B7%D0%B8_NH.png/revision/latest?cb=20200601081814&path-prefix=ru",
+        "birthday": "1997-02-26T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Бодрые",
+        "catchphrase": "рыбка",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Розуэлл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/63/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%B7%D1%83%D1%8D%D0%BB%D0%BB%D0%B0_NH.png/revision/latest?cb=20211108052942&path-prefix=ru",
+        "birthday": "1997-05-01T20:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Самодовольные",
+        "catchphrase": "космос",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Рокет",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%BA%D0%B5%D1%82_NH.png/revision/latest?cb=20200601081822&path-prefix=ru",
+        "birthday": "1997-04-13T20:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Заботливые",
+        "catchphrase": "на взлет",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Рокко",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%BA%D0%BA%D0%BE_NH.png/revision/latest?cb=20200601081836&path-prefix=ru",
+        "birthday": "1997-08-17T20:00:00.000Z",
+        "type": "Бегемот",
+        "personality": "Капризные",
+        "catchphrase": "гиппи",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Рольф",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/8d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%BB%D1%8C%D1%84%D0%B0_NH.png/revision/latest?cb=20200601082111&path-prefix=ru",
+        "birthday": "1997-08-21T20:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Капризные",
+        "catchphrase": "гр-р-рольф",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Ронда",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/19/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D0%BD%D0%B4%D1%8B_NH.png/revision/latest?cb=20200601082122&path-prefix=ru",
+        "birthday": "1997-01-23T21:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Обычные",
+        "catchphrase": "босс",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Рори",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/33/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D1%80%D0%B8_NH.png/revision/latest?cb=20200601082134&path-prefix=ru",
+        "birthday": "1997-08-06T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Спортивные",
+        "catchphrase": "капитально",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Роско",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/07/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D1%81%D0%BA%D0%BE_NH.png/revision/latest?cb=20200601082142&path-prefix=ru",
+        "birthday": "1997-06-15T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Капризные",
+        "catchphrase": "не-е-ет",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Роуэн",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D0%BE%D1%83%D1%8D%D0%BD_NH.png/revision/latest?cb=20200601082152&path-prefix=ru",
+        "birthday": "1997-08-25T20:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Спортивные",
+        "catchphrase": "манго",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Руби",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/07/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D1%83%D0%B1%D0%B8_NH.png/revision/latest?cb=20200601082212&path-prefix=ru",
+        "birthday": "1997-12-25T00:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Бодрые",
+        "catchphrase": "ушки",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Руди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/31/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D1%83%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601082220&path-prefix=ru",
+        "birthday": "1997-12-20T00:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Спортивные",
+        "catchphrase": "шмяк",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Руни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/49/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D1%83%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601082229&path-prefix=ru",
+        "birthday": "1997-11-30T21:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Капризные",
+        "catchphrase": "хук",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Рэддл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/90/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A0%D1%8D%D0%B4%D0%B4%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601082239&path-prefix=ru",
+        "birthday": "1997-06-05T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Ленивые",
+        "catchphrase": "ах-ох",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Саванна",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601082256&path-prefix=ru",
+        "birthday": "1997-01-24T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Обычные",
+        "catchphrase": "и все",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Саймон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601082304&path-prefix=ru",
+        "birthday": "1997-01-18T21:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Ленивые",
+        "catchphrase": "дружок",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Салли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B0%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200601082314&path-prefix=ru",
+        "birthday": "1997-06-18T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "мускатик",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Самсон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B0%D0%BC%D1%81%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601082320&path-prefix=ru",
+        "birthday": "1997-07-04T20:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Спортивные",
+        "catchphrase": "ревушка",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Селия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B5%D0%BB%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601082350&path-prefix=ru",
+        "birthday": "1997-02-24T21:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Обычные",
+        "catchphrase": "перышко",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Сид",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601082401&path-prefix=ru",
+        "birthday": "1997-06-08T20:00:00.000Z",
+        "type": "Слон",
+        "personality": "Капризные",
+        "catchphrase": "рок-н-ролл",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Сидни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D0%B4%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601082411&path-prefix=ru",
+        "birthday": "1997-06-20T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Обычные",
+        "catchphrase": "солнышко",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Сильвана",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601082422&path-prefix=ru",
+        "birthday": "1997-10-22T00:00:00.000Z",
+        "type": "Белка",
+        "personality": "Обычные",
+        "catchphrase": "хрум",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Сильвия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/95/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601082431&path-prefix=ru",
+        "birthday": "1997-05-02T20:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Заботливые",
+        "catchphrase": "прыг",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Сино",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D0%BD%D0%BE_NH.png/revision/latest?cb=20211108053020&path-prefix=ru",
+        "birthday": "1997-10-31T00:00:00.000Z",
+        "type": "Олень",
+        "personality": "Бодрые",
+        "catchphrase": "окей",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Сирано",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/74/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%B8%D1%80%D0%B0%D0%BD%D0%BE_NH.png/revision/latest?cb=20200601082443&path-prefix=ru",
+        "birthday": "1997-02-08T21:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Капризные",
+        "catchphrase": "апчхи",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Скай",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BA%D0%B0%D0%B9_NH.png/revision/latest?cb=20200601082504&path-prefix=ru",
+        "birthday": "1997-02-23T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Обычные",
+        "catchphrase": "пилот",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Скут",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BA%D1%83%D1%82%D0%B0_NH.png/revision/latest?cb=20200601082610&path-prefix=ru",
+        "birthday": "1997-06-12T20:00:00.000Z",
+        "type": "Утка",
+        "personality": "Спортивные",
+        "catchphrase": "брум-брум",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Слай",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BB%D0%B0%D1%8F_NH.png/revision/latest?cb=20200601082557&path-prefix=ru",
+        "birthday": "1997-11-15T00:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Спортивные",
+        "catchphrase": "ура-а-а",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Снейк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/da/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BD%D0%B5%D0%B9%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601083824&path-prefix=ru",
+        "birthday": "1997-11-02T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Спортивные",
+        "catchphrase": "заяссс",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Снути",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/93/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BD%D1%83%D1%82%D0%B8_NH.png/revision/latest?cb=20200601083835&path-prefix=ru",
+        "birthday": "1997-08-23T20:00:00.000Z",
+        "type": "Муравьед",
+        "personality": "Высокомерные",
+        "catchphrase": "шмыг",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Солей",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/6e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BE%D0%BB%D0%B5%D0%B9_NH.png/revision/latest?cb=20200601083856&path-prefix=ru",
+        "birthday": "1997-08-08T20:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Высокомерные",
+        "catchphrase": "о-хо-хо",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Спайк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/37/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BF%D0%B0%D0%B9%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601083904&path-prefix=ru",
+        "birthday": "1997-06-16T20:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Капризные",
+        "catchphrase": "бродяга",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Спарро",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/48/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BF%D0%B0%D1%80%D1%80%D0%BE_NH.png/revision/latest?cb=20200601083909&path-prefix=ru",
+        "birthday": "1997-11-20T00:00:00.000Z",
+        "type": "Птица",
+        "personality": "Спортивные",
+        "catchphrase": "так-так",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Спринкл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D0%BA%D0%BB_NH.png/revision/latest?cb=20200601083918&path-prefix=ru",
+        "birthday": "1997-02-19T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Бодрые",
+        "catchphrase": "пенка",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Спрокет",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D0%BF%D1%80%D0%BE%D0%BA%D0%B5%D1%82%D0%B0_NH.png/revision/latest?cb=20200601083929&path-prefix=ru",
+        "birthday": "1997-11-30T21:00:00.000Z",
+        "type": "Страус",
+        "personality": "Спортивные",
+        "catchphrase": "дзынь",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Статик",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/36/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601083958&path-prefix=ru",
+        "birthday": "1997-07-08T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Капризные",
+        "catchphrase": "вж-ж-ж",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Стелла",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/94/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D1%8B_NH.png/revision/latest?cb=20200601084004&path-prefix=ru",
+        "birthday": "1997-04-08T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Обычные",
+        "catchphrase": "бэ-дабинь",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Стерлинг",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0_NH.png/revision/latest?cb=20200601084016&path-prefix=ru",
+        "birthday": "1997-12-11T00:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Спортивные",
+        "catchphrase": "клекот",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Стинки",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B8%D0%BD%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601084028&path-prefix=ru",
+        "birthday": "1997-08-16T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Спортивные",
+        "catchphrase": "фу-у-у",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Стичес",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%B0_NH.png/revision/latest?cb=20200601084146&path-prefix=ru",
+        "birthday": "1997-02-09T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Ленивые",
+        "catchphrase": "плюш-плюш",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Стью",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/17/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D1%8C%D1%8E_NH.png/revision/latest?cb=20200601084045&path-prefix=ru",
+        "birthday": "1997-04-19T20:00:00.000Z",
+        "type": "Бык",
+        "personality": "Ленивые",
+        "catchphrase": "му-у",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Сэнди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A1%D1%8D%D0%BD%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601084054&path-prefix=ru",
+        "birthday": "1997-10-21T00:00:00.000Z",
+        "type": "Страус",
+        "personality": "Обычные",
+        "catchphrase": "быстро",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Такер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/cc/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B0%D0%BA%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601084235&path-prefix=ru",
+        "birthday": "1997-03-06T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Ленивые",
+        "catchphrase": "бивень",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Тамми",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B0%D0%BC%D0%BC%D0%B8_NH.png/revision/latest?cb=20200601084247&path-prefix=ru",
+        "birthday": "1997-06-22T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Заботливые",
+        "catchphrase": "понимаешь",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Танк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/89/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B0%D0%BD%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601084305&path-prefix=ru",
+        "birthday": "1997-05-05T20:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Спортивные",
+        "catchphrase": "бабах",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Таша",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/04/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B0%D1%88%D0%B8_NH.png/revision/latest?cb=20200601084315&path-prefix=ru",
+        "birthday": "1997-11-30T00:00:00.000Z",
+        "type": "Белка",
+        "personality": "Высокомерные",
+        "catchphrase": "ладно",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Твигги",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B2%D0%B8%D0%B3%D0%B3%D0%B8_NH.png/revision/latest?cb=20200601084336&path-prefix=ru",
+        "birthday": "1997-07-12T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Бодрые",
+        "catchphrase": "тю-вить",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Тедди",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ec/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B5%D0%B4%D0%B4%D0%B8_NH.png/revision/latest?cb=20200601084345&path-prefix=ru",
+        "birthday": "1997-03-25T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Спортивные",
+        "catchphrase": "быр-быр",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Текс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B5%D0%BA%D1%81%D0%B0_NH.png/revision/latest?cb=20200601084351&path-prefix=ru",
+        "birthday": "1997-10-05T20:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Самодовольные",
+        "catchphrase": "огонек",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Ти-Боун",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8-%D0%91%D0%BE%D1%83%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601084400&path-prefix=ru",
+        "birthday": "1997-05-19T20:00:00.000Z",
+        "type": "Бык",
+        "personality": "Капризные",
+        "catchphrase": "бычок",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Тиа",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/92/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601084407&path-prefix=ru",
+        "birthday": "1997-11-18T00:00:00.000Z",
+        "type": "Слон",
+        "personality": "Обычные",
+        "catchphrase": "чайку-у",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Тибальт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/16/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8%D0%B1%D0%B0%D0%BB%D1%8C%D1%82%D0%B0_NH.png/revision/latest?cb=20200601084416&path-prefix=ru",
+        "birthday": "1997-08-18T20:00:00.000Z",
+        "type": "Тигр",
+        "personality": "Спортивные",
+        "catchphrase": "р-рык",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Тимбра",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8%D0%BC%D0%B1%D1%80%D1%8B_NH.png/revision/latest?cb=20200601084425&path-prefix=ru",
+        "birthday": "1997-10-21T00:00:00.000Z",
+        "type": "Овца",
+        "personality": "Высокомерные",
+        "catchphrase": "сосенка",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Типпер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8%D0%BF%D0%BF%D0%B5%D1%80_NH.png/revision/latest?cb=20200601084435&path-prefix=ru",
+        "birthday": "1997-08-24T20:00:00.000Z",
+        "type": "Корова",
+        "personality": "Высокомерные",
+        "catchphrase": "теленок",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Тиффани",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%B8%D1%84%D1%84%D0%B0%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601084443&path-prefix=ru",
+        "birthday": "1997-01-08T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Высокомерные",
+        "catchphrase": "зайчонок",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Том",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D0%BE%D0%BC%D0%B0_NH.png/revision/latest?cb=20200601084508&path-prefix=ru",
+        "birthday": "1997-12-10T00:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Капризные",
+        "catchphrase": "мя-я-яоза",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Трафлс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%80%D0%B0%D1%84%D0%BB%D1%81_NH.png/revision/latest?cb=20200601084523&path-prefix=ru",
+        "birthday": "1997-07-27T20:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Бодрые",
+        "catchphrase": "хрюша",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Туту",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%83%D1%82%D1%83_NH.png/revision/latest?cb=20200601084530&path-prefix=ru",
+        "birthday": "1997-11-15T00:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Бодрые",
+        "catchphrase": "ме-е-ед",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Тэбби",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/aa/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%8D%D0%B1%D0%B1%D0%B8_NH.png/revision/latest?cb=20200601084542&path-prefix=ru",
+        "birthday": "1997-08-12T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Бодрые",
+        "catchphrase": "мя-ого",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Тэд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/12/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%8D%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601084548&path-prefix=ru",
+        "birthday": "1997-08-02T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Спортивные",
+        "catchphrase": "жабррр",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Тэмми",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/13/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%8D%D0%BC%D0%BC%D0%B8_NH.png/revision/latest?cb=20200601084555&path-prefix=ru",
+        "birthday": "1997-04-01T20:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Бодрые",
+        "catchphrase": "шимпатяга",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Тэнджи",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%8D%D0%BD%D0%B4%D0%B6%D0%B8_NH.png/revision/latest?cb=20200601084628&path-prefix=ru",
+        "birthday": "1997-06-16T20:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Бодрые",
+        "catchphrase": "фруктик",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Тяньшэн",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/b/b3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A2%D1%8F%D0%BD%D1%8C%D1%88%D1%8D%D0%BD%D0%B0_NH.png/revision/latest?cb=20211108053044&path-prefix=ru",
+        "birthday": "1997-08-17T20:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Спортивные",
+        "catchphrase": "ву-ву",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Уиллоу",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D0%B8%D0%BB%D0%BB%D0%BE%D1%83_NH.png/revision/latest?cb=20200601084635&path-prefix=ru",
+        "birthday": "1997-11-26T00:00:00.000Z",
+        "type": "Овца",
+        "personality": "Высокомерные",
+        "catchphrase": "пасемся",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Уитни",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D0%B8%D1%82%D0%BD%D0%B8_NH.png/revision/latest?cb=20200601084642&path-prefix=ru",
+        "birthday": "1997-03-16T21:00:00.000Z",
+        "type": "Волк",
+        "personality": "Высокомерные",
+        "catchphrase": "цап",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Уокер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D0%BE%D0%BA%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601084649&path-prefix=ru",
+        "birthday": "1997-06-09T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Ленивые",
+        "catchphrase": "ау-у",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Уолт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/00/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D0%BE%D0%BB%D1%82%D0%B0_NH.png/revision/latest?cb=20200601084655&path-prefix=ru",
+        "birthday": "1997-04-23T20:00:00.000Z",
+        "type": "Кенгуру",
+        "personality": "Капризные",
+        "catchphrase": "карманчик",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Урсала",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/83/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D1%80%D1%81%D0%B0%D0%BB%D1%8B_NH.png/revision/latest?cb=20200601084701&path-prefix=ru",
+        "birthday": "1997-01-15T21:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Заботливые",
+        "catchphrase": "гррум",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Уэйд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A3%D1%8D%D0%B9%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601084711&path-prefix=ru",
+        "birthday": "1997-10-30T00:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Ленивые",
+        "catchphrase": "вот так вот",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Фанг",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/53/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B0%D0%BD%D0%B3%D0%B0_NH.png/revision/latest?cb=20200601084736&path-prefix=ru",
+        "birthday": "1997-12-18T00:00:00.000Z",
+        "type": "Волк",
+        "personality": "Капризные",
+        "catchphrase": "грызь",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Фауна",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/25/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B0%D1%83%D0%BD%D1%8B_NH.png/revision/latest?cb=20200601084742&path-prefix=ru",
+        "birthday": "1997-02-25T21:00:00.000Z",
+        "type": "Олень",
+        "personality": "Обычные",
+        "catchphrase": "олешек",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Фелисити",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B5%D0%BB%D0%B8%D1%81%D0%B8%D1%82%D0%B8_NH.png/revision/latest?cb=20200601084747&path-prefix=ru",
+        "birthday": "1997-03-01T21:00:00.000Z",
+        "type": "Кошка",
+        "personality": "Бодрые",
+        "catchphrase": "ми-ми-ми",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Фиби",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/57/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B8%D0%B1%D0%B8_NH.png/revision/latest?cb=20200601084758&path-prefix=ru",
+        "birthday": "1997-04-21T20:00:00.000Z",
+        "type": "Страус",
+        "personality": "Заботливые",
+        "catchphrase": "искорка",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Фил",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/28/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B8%D0%BB%D0%B0_NH.png/revision/latest?cb=20200601084811&path-prefix=ru",
+        "birthday": "1997-11-27T00:00:00.000Z",
+        "type": "Страус",
+        "personality": "Самодовольные",
+        "catchphrase": "хех",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Филберт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/f3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82%D0%B0_NH.png/revision/latest?cb=20200601084817&path-prefix=ru",
+        "birthday": "1997-06-02T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Ленивые",
+        "catchphrase": "дружище",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Фларри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ef/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%BB%D0%B0%D1%80%D1%80%D0%B8_NH.png/revision/latest?cb=20200601084844&path-prefix=ru",
+        "birthday": "1997-01-29T21:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Обычные",
+        "catchphrase": "пушистик",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Флип",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/eb/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%BB%D0%B8%D0%BF%D0%B0_NH.png/revision/latest?cb=20200601084850&path-prefix=ru",
+        "birthday": "1997-11-21T00:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Спортивные",
+        "catchphrase": "у-у-у",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Фло",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/40/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%BB%D0%BE_NH.png/revision/latest?cb=20200601084856&path-prefix=ru",
+        "birthday": "1997-03-01T21:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Заботливые",
+        "catchphrase": "чхи",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Флора",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/2c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D0%BB%D0%BE%D1%80%D1%8B_NH.png/revision/latest?cb=20200601084903&path-prefix=ru",
+        "birthday": "1997-02-08T21:00:00.000Z",
+        "type": "Страус",
+        "personality": "Бодрые",
+        "catchphrase": "розочка",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Франк",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e2/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601084911&path-prefix=ru",
+        "birthday": "1997-07-29T20:00:00.000Z",
+        "type": "Орёл",
+        "personality": "Капризные",
+        "catchphrase": "красава",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Франсин",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/76/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BD_NH.png/revision/latest?cb=20200601084922&path-prefix=ru",
+        "birthday": "1997-01-21T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Высокомерные",
+        "catchphrase": "морковка",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Фреклс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d8/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B5%D0%BA%D0%BB%D1%81_NH.png/revision/latest?cb=20200601084930&path-prefix=ru",
+        "birthday": "1997-02-18T21:00:00.000Z",
+        "type": "Утка",
+        "personality": "Бодрые",
+        "catchphrase": "утенок",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Фретт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c1/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B5%D1%82%D1%82%D0%B0_NH.png/revision/latest?cb=20211108053401&path-prefix=ru",
+        "birthday": "1997-10-30T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Капризные",
+        "catchphrase": "ай-яй-яй",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Фрея",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e9/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B5%D0%B8_NH.png/revision/latest?cb=20200601084936&path-prefix=ru",
+        "birthday": "1997-12-14T00:00:00.000Z",
+        "type": "Волк",
+        "personality": "Высокомерные",
+        "catchphrase": "хрусть",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Фрига",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/10/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B8%D0%B3%D0%B8_NH.png/revision/latest?cb=20200601084943&path-prefix=ru",
+        "birthday": "1997-10-16T00:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Высокомерные",
+        "catchphrase": "брр-хм",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Фрита",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c3/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%B8%D1%82%D1%8B_NH.png/revision/latest?cb=20200601084950&path-prefix=ru",
+        "birthday": "1997-07-15T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Заботливые",
+        "catchphrase": "мутончик",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Фроберт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ac/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%80%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%B0_NH.png/revision/latest?cb=20200601084956&path-prefix=ru",
+        "birthday": "1997-02-07T21:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Спортивные",
+        "catchphrase": "квак",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Фуксия",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/15/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%83%D0%BA%D1%81%D0%B8%D0%B8_NH.png/revision/latest?cb=20200601085003&path-prefix=ru",
+        "birthday": "1997-03-18T21:00:00.000Z",
+        "type": "Олень",
+        "personality": "Заботливые",
+        "catchphrase": "зазноба",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Фэйт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/8/89/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A4%D1%8D%D0%B9%D1%82_NH.png/revision/latest?cb=20211108053518&path-prefix=ru",
+        "birthday": "1997-03-20T21:00:00.000Z",
+        "type": "Коала",
+        "personality": "Заботливые",
+        "catchphrase": "алоха",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Хак",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/14/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D0%B0%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601085025&path-prefix=ru",
+        "birthday": "1997-07-08T20:00:00.000Z",
+        "type": "Лягушка",
+        "personality": "Самодовольные",
+        "catchphrase": "скок",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Хейзел",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/76/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D0%B5%D0%B9%D0%B7%D0%B5%D0%BB_NH.png/revision/latest?cb=20200601085032&path-prefix=ru",
+        "birthday": "1997-08-29T20:00:00.000Z",
+        "type": "Белка",
+        "personality": "Заботливые",
+        "catchphrase": "фундук",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Хопкинс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e0/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D0%BE%D0%BF%D0%BA%D0%B8%D0%BD%D1%81%D0%B0_NH.png/revision/latest?cb=20200601085040&path-prefix=ru",
+        "birthday": "1997-02-10T21:00:00.000Z",
+        "type": "Кролик",
+        "personality": "Ленивые",
+        "catchphrase": "топ-топ",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Хоппер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D0%BE%D0%BF%D0%BF%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085050&path-prefix=ru",
+        "birthday": "1997-04-05T20:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Капризные",
+        "catchphrase": "ледок",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Хорнсби",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/ea/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D0%BE%D1%80%D0%BD%D1%81%D0%B1%D0%B8_NH.png/revision/latest?cb=20200601085056&path-prefix=ru",
+        "birthday": "1997-02-19T21:00:00.000Z",
+        "type": "Носорог",
+        "personality": "Ленивые",
+        "catchphrase": "шнобель",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Хью",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c6/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D1%8C%D1%8E_NH.png/revision/latest?cb=20200601085111&path-prefix=ru",
+        "birthday": "1997-12-30T00:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Ленивые",
+        "catchphrase": "хрюк-хрюк",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Хэмфри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/31/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A5%D1%8D%D0%BC%D1%84%D1%80%D0%B8_NH.png/revision/latest?cb=20200601085116&path-prefix=ru",
+        "birthday": "1997-02-24T21:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Капризные",
+        "catchphrase": "фырк",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Цезар",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/de/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085147&path-prefix=ru",
+        "birthday": "1997-03-05T21:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Капризные",
+        "catchphrase": "высочество",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Цефалобот",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/06/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A6%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%B1%D0%BE%D1%82%D0%B0_NH.png/revision/latest?cb=20211108053604&path-prefix=ru",
+        "birthday": "1997-03-31T20:00:00.000Z",
+        "type": "Осьминог",
+        "personality": "Самодовольные",
+        "catchphrase": "динь-дон",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Цукер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A6%D1%83%D0%BA%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085155&path-prefix=ru",
+        "birthday": "1997-02-07T21:00:00.000Z",
+        "type": "Осьминог",
+        "personality": "Ленивые",
+        "catchphrase": "буль",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Чаддер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9b/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B0%D0%B4%D0%B4%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085210&path-prefix=ru",
+        "birthday": "1997-12-15T00:00:00.000Z",
+        "type": "Мышь",
+        "personality": "Самодовольные",
+        "catchphrase": "сырок",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Чау",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/d4/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B0%D1%83_NH.png/revision/latest?cb=20200601085231&path-prefix=ru",
+        "birthday": "1997-07-21T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Капризные",
+        "catchphrase": "ай-яй",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Чебвик",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/47/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B5%D0%B1%D0%B2%D0%B8%D0%BA%D0%B0_NH.png/revision/latest?cb=20211108053626&path-prefix=ru",
+        "birthday": "1997-12-24T00:00:00.000Z",
+        "type": "Пингвин",
+        "personality": "Ленивые",
+        "catchphrase": "бу-бу-бу",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Черри",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/4/4e/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B5%D1%80%D1%80%D0%B8_NH.png/revision/latest?cb=20200601085248&path-prefix=ru",
+        "birthday": "1997-05-10T20:00:00.000Z",
+        "type": "Собака",
+        "personality": "Заботливые",
+        "catchphrase": "что-что",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Честер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/a5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085252&path-prefix=ru",
+        "birthday": "1997-08-05T20:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Ленивые",
+        "catchphrase": "бамбук",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Чиф",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/95/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%B8%D1%84%D0%B0_NH.png/revision/latest?cb=20200601085259&path-prefix=ru",
+        "birthday": "1997-12-19T00:00:00.000Z",
+        "type": "Волк",
+        "personality": "Капризные",
+        "catchphrase": "фыр-р-рф",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Чопс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/39/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A7%D0%BE%D0%BF%D1%81%D0%B0_NH.png/revision/latest?cb=20200601085304&path-prefix=ru",
+        "birthday": "1997-10-13T00:00:00.000Z",
+        "type": "Свинья",
+        "personality": "Самодовольные",
+        "catchphrase": "хряк-с",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Шари",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/62/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B0%D1%80%D0%B8_NH.png/revision/latest?cb=20200601085331&path-prefix=ru",
+        "birthday": "1997-04-09T20:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Заботливые",
+        "catchphrase": "щекасто",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Шарлиз",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/0d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B0%D1%80%D0%BB%D0%B8%D0%B7_NH.png/revision/latest?cb=20200601085339&path-prefix=ru",
+        "birthday": "1997-04-16T20:00:00.000Z",
+        "type": "Медведь",
+        "personality": "Заботливые",
+        "catchphrase": "ого-го",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Шевр",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/de/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B5%D0%B2%D1%80_NH.png/revision/latest?cb=20200601085356&path-prefix=ru",
+        "birthday": "1997-02-05T21:00:00.000Z",
+        "type": "Коза",
+        "personality": "Обычные",
+        "catchphrase": "ле ме-е-е",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Шелдон",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/52/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B5%D0%BB%D0%B4%D0%BE%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601085407&path-prefix=ru",
+        "birthday": "1997-02-25T21:00:00.000Z",
+        "type": "Белка",
+        "personality": "Спортивные",
+        "catchphrase": "треники",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Шеп",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/5/5f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B5%D0%BF%D0%B0_NH.png/revision/latest?cb=20200601085414&path-prefix=ru",
+        "birthday": "1997-11-24T00:00:00.000Z",
+        "type": "Собака",
+        "personality": "Самодовольные",
+        "catchphrase": "бр-р-разер",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Шерб",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/e/e7/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B5%D1%80%D0%B1%D0%B0_NH.png/revision/latest?cb=20200601085422&path-prefix=ru",
+        "birthday": "1997-01-17T21:00:00.000Z",
+        "type": "Коза",
+        "personality": "Ленивые",
+        "catchphrase": "мемеша",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Шери",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/3d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%A8%D0%B5%D1%80%D0%B8_NH.png/revision/latest?cb=20200601085433&path-prefix=ru",
+        "birthday": "1997-02-16T21:00:00.000Z",
+        "type": "Медвежонок",
+        "personality": "Бодрые",
+        "catchphrase": "тра-ля-ля",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Эгберт",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/69/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%B3%D0%B1%D0%B5%D1%80%D1%82%D0%B0_NH.png/revision/latest?cb=20200601085501&path-prefix=ru",
+        "birthday": "1997-10-14T00:00:00.000Z",
+        "type": "Курица",
+        "personality": "Ленивые",
+        "catchphrase": "кукареку",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Эд",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/6/67/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%B4%D0%B0_NH.png/revision/latest?cb=20200601085511&path-prefix=ru",
+        "birthday": "1997-03-15T21:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Самодовольные",
+        "catchphrase": "новичок",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Эйс",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/f/ff/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%B9%D1%81%D0%B0_NH.png/revision/latest?cb=20211107152713&path-prefix=ru",
+        "birthday": "1997-08-10T20:00:00.000Z",
+        "type": "Птица",
+        "personality": "Спортивные",
+        "catchphrase": "фьють",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Эл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/a/ae/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%B0_NH.png/revision/latest?cb=20200402192121&path-prefix=ru",
+        "birthday": "1997-10-18T00:00:00.000Z",
+        "type": "Горилла",
+        "personality": "Ленивые",
+        "catchphrase": "ух-ух-ух",
+        "hobby": "Фитнес"
+    },
+    {
+        "name": "Элвис",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/23/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%B2%D0%B8%D1%81%D0%B0_NH.png/revision/latest?cb=20200601085516&path-prefix=ru",
+        "birthday": "1997-07-22T20:00:00.000Z",
+        "type": "Лев",
+        "personality": "Капризные",
+        "catchphrase": "буги-вуги",
+        "hobby": "Образование"
+    },
+    {
+        "name": "Элиза",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/25/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%B8%D0%B7%D1%8B_NH.png/revision/latest?cb=20200601085527&path-prefix=ru",
+        "birthday": "1997-02-20T21:00:00.000Z",
+        "type": "Обезьяна",
+        "personality": "Высокомерные",
+        "catchphrase": "само собой",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Элла",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/34/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%BB%D1%8B_NH.png/revision/latest?cb=20200601085536&path-prefix=ru",
+        "birthday": "1997-05-12T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Обычные",
+        "catchphrase": "кроха",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Элли",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/d/dd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%BB%D0%B8_NH.png/revision/latest?cb=20200402192223&path-prefix=ru",
+        "birthday": "1997-11-07T21:00:00.000Z",
+        "type": "Аллигатор",
+        "personality": "Высокомерные",
+        "catchphrase": "гра-а-а",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Элмер",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/9/9c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%BC%D0%B5%D1%80%D0%B0_NH.png/revision/latest?cb=20200601085541&path-prefix=ru",
+        "birthday": "1997-10-04T20:00:00.000Z",
+        "type": "Лошадь",
+        "personality": "Ленивые",
+        "catchphrase": "жеребенок",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Элоиз",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/0/03/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BB%D0%BE%D0%B8%D0%B7_NH.png/revision/latest?cb=20200601085546&path-prefix=ru",
+        "birthday": "1997-12-07T21:00:00.000Z",
+        "type": "Слон",
+        "personality": "Высокомерные",
+        "catchphrase": "тру-тут",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Эпл",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/7/7f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D0%BF%D0%BB_NH.png/revision/latest?cb=20200402192727&path-prefix=ru",
+        "birthday": "1997-03-23T21:00:00.000Z",
+        "type": "Хомяк",
+        "personality": "Бодрые",
+        "catchphrase": "щечки",
+        "hobby": "Игры"
+    },
+    {
+        "name": "Эрик",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/2/23/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AD%D1%80%D0%B8%D0%BA%D0%B0_NH.png/revision/latest?cb=20200601085556&path-prefix=ru",
+        "birthday": "1997-07-26T20:00:00.000Z",
+        "type": "Олень",
+        "personality": "Ленивые",
+        "catchphrase": "ем мох",
+        "hobby": "Природа"
+    },
+    {
+        "name": "Юджин",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/1/1d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%B4%D0%B6%D0%B8%D0%BD%D0%B0_NH.png/revision/latest?cb=20200601085619&path-prefix=ru",
+        "birthday": "1997-10-26T00:00:00.000Z",
+        "type": "Коала",
+        "personality": "Самодовольные",
+        "catchphrase": "приятель",
+        "hobby": "Музыка"
+    },
+    {
+        "name": "Юка",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/c/c5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BA%D0%B8_NH.png/revision/latest?cb=20200601085627&path-prefix=ru",
+        "birthday": "1997-07-19T20:00:00.000Z",
+        "type": "Коала",
+        "personality": "Высокомерные",
+        "catchphrase": "ц-ц",
+        "hobby": "Мода"
+    },
+    {
+        "name": "Юнис",
+        "picURL": "https://static.wikia.nocookie.net/animal-crossing/images/3/36/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B8%D1%81_NH.png/revision/latest?cb=20200601085633&path-prefix=ru",
+        "birthday": "1997-04-02T20:00:00.000Z",
+        "type": "Овца",
+        "personality": "Обычные",
+        "catchphrase": "ребрышко",
+        "hobby": "Мода"
+    }
+]
