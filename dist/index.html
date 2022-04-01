@@ -3,48 +3,154 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your villagers</title>
-    <link rel="stylesheet" href="output.css">
-</head>
-<body class="font-mono">
+    <title>Your villagers 💖</title>
+    <link type="image/svg" rel="icon" href="./camping.svg">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">    
     
-    <div class="container mx-auto my-4">
-
-        <div class="command-panel my-2"></div>
-
-        <h1 class="bg-slate-400 text-center">Hello humanname!</h1>
-
-        <div class="container grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4 my-2" id="villagers-grid">
-            <!-- <div class="item bg-slate-300 w-max p-2">
-                <p>Ava</p>
-                <img src="https://via.placeholder.com/128" alt="noimg">
-                <p>Gaming</p>               
+    <!-- <link rel="stylesheet" href="output.css"> -->
+</head>
+<body class="bg-orange-200 font-cstm">
+    
+    <div>
+        <div class="flex justify-between justify-self-center content-center top-0 p-4 bg-orange-400 shadow-sm">
+            <div class="command-panel">
+                
             </div>
-            <div class="item bg-slate-300 w-max p-2">
-                <p>Ava</p>
-                <img src="https://via.placeholder.com/128" alt="noimg">
-                <p>Gaming</p>               
+            
+            <div id="user-info" class="inline-block">         
+                <div class="user-icon bg-orange-600 mr-2 inline-block p-2 rounded-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="inline h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                    </svg>
+                </div>
+                <img src="" alt="" class="user-img hidden rounded-sm h-10">
+                <button id="login-btn" class="hidden">Войти с Google</button>
+                <button id="logout-btn" class="hidden">Выйти</button> 
             </div>
-            <div class="item bg-slate-300 w-max p-2">
-                <p>Ava</p>
-                <img src="https://via.placeholder.com/128" alt="noimg">
-                <p>Gaming</p>               
-            </div>
-            <div class="item bg-slate-300 w-max p-2">
-                <p>Ava</p>
-                <img src="https://via.placeholder.com/128" alt="noimg">
-                <p>Gaming</p>               
-            </div> -->
         </div>
 
+        <div class="flex flex-row">
+            <div id="filter-type" class="flex flex-col shadow-md bg-orange-300 text-4xl sticky py-4 space-y-4 select-none">        	
+                <button class="filter-type-btn" data-type="Аллигатор">
+                    <div>🐊</div>
+                </button>               	
+                <button class="filter-type-btn" data-type="Бегемот">
+                    <div>🦛</div>
+                </button>               
+                <button class="filter-type-btn" data-type="Белка">
+                    <div>🐿️</div>
+                </button>                                             
+                <button class="filter-type-btn" data-type="Бык">
+                    <div>🐂</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Волк">
+                    <div>🐺</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Горилла">
+                    <div>🦍</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Кенгуру">
+                    <div>🦘</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Коала">
+                    <div>🐨</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Коза">
+                    <div>🐐</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Корова">
+                    <div>🐄</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Кошка">
+                    <div>🐈</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Кролик">
+                    <div>🐇</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Курица">
+                    <div>🐔</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Лев">
+                    <div>🦁</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Лошадь">
+                    <div>🐎</div>
+                </button>	
+                <button class="filter-type-btn" data-type="Лягушка">
+                    <div>🐸</div>
+                </button>
+                <button class="filter-type-btn" data-type="Медведь">
+                    <div>🐻</div>
+                </button>
+                <button class="filter-type-btn" data-type="Медвежонок">
+                    <div>🧸</div>
+                </button>
+                <button class="filter-type-btn" data-type="Муравьед">
+                    <div>🐜🍴</div>
+                </button>
+                <button class="filter-type-btn" data-type="Мышь">
+                    <div>🐁</div>
+                </button>
+                <button class="filter-type-btn" data-type="Носорог">
+                    <div>🦏</div>
+                </button>
+                <button class="filter-type-btn" data-type="Обезьяна">
+                    <div>🙊</div>
+                </button>
+                <button class="filter-type-btn" data-type="Овца">
+                    <div>🐑</div>
+                </button>
+                <button class="filter-type-btn" data-type="Олень">
+                    <div>🦌</div>
+                </button>
+                <button class="filter-type-btn" data-type="Орёл">
+                    <div>🦅</div>
+                </button>
+                <button class="filter-type-btn" data-type="Осьминог">
+                    <div>🐙</div>
+                </button>
+                <button class="filter-type-btn" data-type="Пингвин">
+                    <div>🐧</div>
+                </button>
+                <button class="filter-type-btn" data-type="Птица">
+                    <div>🐦</div>
+                </button>
+                <button class="filter-type-btn" data-type="Свинья">
+                    <div>🐖</div>
+                </button>
+                <button class="filter-type-btn" data-type="Слон">
+                    <div>🐘</div>
+                </button>
+                <button class="filter-type-btn" data-type="Собака">
+                    <div>🐕</div>
+                </button>
+                <button class="filter-type-btn" data-type="Страус">
+                    <div>🦃</div>
+                </button>
+                <button class="filter-type-btn" data-type="Тигр">
+                    <div>🐅</div>
+                </button>
+                <button class="filter-type-btn" data-type="Утка">
+                    <div>🦆</div>
+                </button>
+                <button class="filter-type-btn" data-type="Хомяк">
+                    <div>🐹</div>
+                </button>
+            </div>
+
+            <div class="p-4 basis-full">
+                <div class="grid gap-2 grid-cols-auto-fit content-center place-content-center" id="villagers-grid"></div>
+                <div id="paginator"  class="flex justify-center mx-auto mt-4">
+                    <button class="next-page bg-orange-700 p-2 rounded-sm shadow-md">Загрузить еще</button>
+                </div>
+            </div>
+        </div>
     </div>
 
-
-
-</div>
-
-    
-
     <script src="bundle.js"></script>
+
 </body>
 </html>
